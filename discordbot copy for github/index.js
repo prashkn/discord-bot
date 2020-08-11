@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
-const token = 'NzQyMzg3MzYxNTI2MTg2MDc0.XzFYGw.i2sjQVDIm-LFCMDm07ZdVbPWmK4';
+const token = 'tokenplacedhere';
 const prefix = '.';
 
 //Allows command files to work
